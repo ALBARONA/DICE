@@ -1,0 +1,31 @@
+h1 {color: red;
+text-align: center;}
+
+H2{ text-align: center;}
+div{ display: block;
+  position: relative;
+  text-align: center;
+}
+.pl1{
+  width: 50%;
+  float: left;
+
+}
+.pl2{
+  width: 50%;
+    float: left;
+
+}
+
+img{
+  width:300px;
+  position: absolute;
+
+	right: 200px;
+
+}
+button{
+  position: absolute;
+  top: 400px;
+  left: 650px;
+}
